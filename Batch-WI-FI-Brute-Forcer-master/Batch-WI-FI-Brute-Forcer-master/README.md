@@ -1,4 +1,4 @@
-# I STOLE THIS FROM SOMEONE, BUT IM NOT GIVING THEM CREDIT LMAOO
+# WIFI BRUTEFORCER MADE BY Nyh0ht
 
 Wi-Fi Brute Forcer made in Batch
 An attack tool against Wi-Fi networks with internal CMD commands.
