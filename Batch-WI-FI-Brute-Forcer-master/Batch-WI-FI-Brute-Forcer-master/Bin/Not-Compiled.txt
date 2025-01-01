@@ -9,5 +9,3 @@ we are avoiding compilation:
 4. When the Function/Plugin Uses multiple Dependencies, We Don't compile them.
 5. When, we think that it is worthless to Complie it - It will only raise VirusTotal False Alarms.
 
-Lots of Love - TheBATeam.
-Follow us to Learn more and Grow With other worldwide fellow Brothers. - www.thebateam.org
