@@ -1,11 +1,9 @@
+I STOLE THIS FROM SOMEONE, BUT IM NOT GIVING THEM CREDIT LMAOO
+
 # Batch Wi-Fi Brute Forcer
 An active attack tool against Wi-Fi networks with internal CMD commands.
 
-This program is created to be a proof of concept that it is possible
-to write a working Wi-Fi attack tool with Batchfiles since there 
-are countless examples on the internet that claims to be legit
-hacking tools, working on CMD. While this tool does not claim
-a 100% success ratio, it still works if the target Wi-Fi has
+ While this tool does not claim a 100% success ratio, it still works if the target Wi-Fi has
 weak password. :)
 
 ## Usage
@@ -87,8 +85,6 @@ Press any key to continue...
 
 Huge thanks to everyone for their contributions to this project.
 
-- [TheKvc](https://github.com/TheKvc)
-- [Ankitamehra93](https://github.com/Ankitamehra93)
 - [lioen-dev](https://github.com/lioen-dev)
 - [akshatbhatter1](https://github.com/akshatbhatter1)
 
