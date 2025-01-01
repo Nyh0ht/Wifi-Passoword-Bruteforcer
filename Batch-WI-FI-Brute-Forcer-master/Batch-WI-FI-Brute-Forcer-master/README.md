@@ -1,12 +1,12 @@
-I STOLE THIS FROM SOMEONE, BUT IM NOT GIVING THEM CREDIT LMAOO
+# I STOLE THIS FROM SOMEONE, BUT IM NOT GIVING THEM CREDIT LMAOO
 
-# Batch Wi-Fi Brute Forcer
-An active attack tool against Wi-Fi networks with internal CMD commands.
+Wi-Fi Brute Forcer made in Batch
+An attack tool against Wi-Fi networks with internal CMD commands.
 
  While this tool does not claim a 100% success ratio, it still works if the target Wi-Fi has
-weak password. :)
+weak password. 
 
-## Usage
+## HOW TO USE
 
 ### Interface initialization
 The program automatically detects your wireless interfaces when you execute the batch file.
@@ -43,22 +43,6 @@ If not changed, the counter value is 10, and counts down after each query for ea
 
 > If an authentication or association is detected, this value is increased by 5 to ensure a successful connection.
 
-## Limitations
-- This program has been tested unsuccessfully on Windows 7 and tested successfully on Windows 10 and 11. Since some commands may differ in terms of output between Windows versions, it is not expected to work on previous versions.
-
-- ANSI escape sequences used in the terminal were added to the Windows Console in the Windows 10 version 1511, previous versions are not expected to run this program.
-
-- There is a strict dependency on the command line utility `netsh`, meaning that it cannot understand "Unicode" characters. Only ASCII characters are supported for network names.
-
-- The command line utilities cannot be forced to output English-only text, which means parsing particularly depends on English-based output from command line utilities. Any other system language is not expected to be compatible with this program.
-
-- Speed is significantly slow due to its nature.
-
-- Cannot attack hidden networks.
-
-## Result file
-If an attack is successful, the result is automatically written to `result.txt`.
-
 
 ## Help screen
 ```txt
@@ -81,11 +65,4 @@ Commands
 Press any key to continue...
 ```
 
-## Contributors
 
-Huge thanks to everyone for their contributions to this project.
-
-- [lioen-dev](https://github.com/lioen-dev)
-- [akshatbhatter1](https://github.com/akshatbhatter1)
-
-**Special thanks to the [TheBATeam](https://github.com/TheBATeam), and AACINI.**
