@@ -1,13 +1,7 @@
 @echo off
-:: Batch Wi-Fi Brute Forcer - Developed By TechnicalUserX
-:: Please refer to https://github.com/TechnicalUserX for more projects
+:: Batch Wi-Fi Brute Forcer - Developed By Nyh0ht
+:: Please refer to https://github.com/Nyh0ht for more projects
 
-:: This program is created to be a proof of concept that it is possible
-:: to write a working Wi-Fi attack tool with Batchfiles since there 
-:: are countless examples on the internet that claims to be legit
-:: hacking tools, working on CMD. While this tool does not claim
-:: a 100% success ratio, it still works if the target Wi-Fi has
-:: weak password. :)
 
 :: There is already a wordlist file in the repository but you are
 :: free to use your own wordlists.
